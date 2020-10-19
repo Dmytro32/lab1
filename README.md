@@ -1,2 +1,2 @@
 # lab1
-1. Use gitclone to doenload repository
+1. Use git clone to download repository
